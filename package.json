@@ -1,0 +1,24 @@
+{
+  "name": "ecommerce-sales-dashboard",
+  "version": "1.0.0",
+  "description": "Interactive analytics dashboard for 1,500 Indian e-commerce order lines across 2018 — zero frameworks, zero backend, 100% in-browser.",
+  "private": true,
+  "license": "MIT",
+  "author": "Pallab Chakraborty",
+  "homepage": "https://pallab-chakraborty.github.io/EcommerceDashboard-DataAnalytics-/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pallab-Chakraborty/EcommerceDashboard-DataAnalytics-.git"
+  },
+  "scripts": {
+    "start": "npx http-server . -p 8000 -c-1",
+    "serve": "npx http-server . -p 8000 -c-1"
+  },
+  "keywords": [
+    "dashboard",
+    "data-analytics",
+    "ecommerce",
+    "chart.js",
+    "static-site"
+  ]
+}
